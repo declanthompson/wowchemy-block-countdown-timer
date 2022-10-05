@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/shoginn/wowchemy-block-countdown-timer
 
 go 1.19
