@@ -1,7 +1,7 @@
 {
   "name": "shoginn.countdown-timer",
   "description": "Wowchemy Block to enable custom countdown timer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "shoginn/wowchemy-block-countdown-timer",
   "author": "Scott Ginn",
